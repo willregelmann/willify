@@ -1,5 +1,5 @@
 ---
-name: willify
+name: iterate
 description: Iterates on a prototype by distilling it into a minimal behavioral spec and reimplementing from scratch. Use when the user says "reimplement my prototype", "clean-room rewrite", "spec out what this does and redo it", "distill and reimplement", "start fresh from a spec", or "iterate on my prototype clean".
 tags:
   - prototyping
