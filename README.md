@@ -18,4 +18,6 @@ Iterates on a prototype by distilling it into a minimal behavioral spec, then re
 
 ## Installation
 
-Skills live in `skills/<name>/SKILL.md`. To use them, point your Claude Code skills directory at this repo or copy the skill files into your existing skills directory.
+```sh
+npx skills add willregelmann/willify
+```
